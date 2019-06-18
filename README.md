@@ -1,3 +1,32 @@
+# Github finder built with React Hooks
+
+A search application built with React using Hooks The application uses the GitHub API returning user information and the users five latest repositories.
+
+* You can search for users with up to 30 users in the result (github API restriction).
+* There is a clear button to clear out the search results.
+* You can click on more in order to see details of users github profile including the five latest repositories.
+* There is an alert showing if the search button is clicked without any search input.
+
+## Screenshots
+
+Search result
+
+<img src="search.png" width=650>
+
+
+Single user
+
+<img src="user.png" width=650>
+
+
+## Author
+* Albert Stjärne (https://github.com/AlbertStjarne)
+
+
+
+
+# React README included from start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
